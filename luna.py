@@ -6,9 +6,9 @@ from Python_ARQ import ARQ
 
 luna = Client(
     ":memory:",
-    bot_token=1582636407:AAGuKzkSdzblLiJKqfPbJ9tFeGQKPi7h_PM,
-    api_id=2443183,
-    api_hash="66b6799e1b784aff78bad680cd8362db",
+    bot_token=2111353168:AAGMUnFi8LM_ObHGK21oc8rUfNZXXevXI-c,
+    api_id=22062197,
+    api_hash="80a5825983b6652661162960a560f447",
 )
 
 arq = ARQ(ARQ_API)
